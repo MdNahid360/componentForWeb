@@ -1,6 +1,6 @@
 let suggestions = [
-    "bangle",
-    "Bangle",
-    "english",
-    "math"
+    "How to make a website",
+    "how to learn javascript",
+    "how to programming",
+    
 ];
