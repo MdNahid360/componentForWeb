@@ -37,6 +37,14 @@ body{
     border-radius: 7px;
     cursor: pointer;
     transition: all 0.2s ;
+}.btn-active{
+    margin: 6px;
+    background: black;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: all 0.2s ;
 }
 
 .img-group{

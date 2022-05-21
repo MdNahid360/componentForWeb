@@ -4,6 +4,7 @@
 
     button.forEach((button) => {
         button.addEventListener('click', function (e) {
+            
             e.preventDefault();
             const filter = e.target.dataset.filter
             setTimeout(storeImg.forEach((item) => {
